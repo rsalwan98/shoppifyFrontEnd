@@ -1,0 +1,8 @@
+.CategoryBox{
+    margin-top: 10vh;
+    min-height: vh;
+    width: 70vw;
+    margin-left: 15vw;
+    background-color: #090909;
+    overflow: hidden;
+}

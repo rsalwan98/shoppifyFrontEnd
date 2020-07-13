@@ -1,0 +1,59 @@
+.ProductDetail{
+    background-color: white;
+    width : 70vw;
+    height: 70vh;
+    margin : 0 auto;
+    margin-top: 10vh;
+}
+
+.ProductImg{
+    margin-top: 5vh;
+    width : 30vw;
+    height : 60vh;
+    float: left;
+}
+
+.ProductInfo{
+    padding-top: 3vh;
+    margin-left: 5vw;
+    float: left;
+    width: 35vw;
+}
+
+.Desc{
+    height : 30vh;
+    width: 30vw;
+    overflow-y: scroll;
+}
+
+.AddToCart{
+    background-color: #00BFFF;
+    margin-top: 8vh;
+    height: 5vh;
+    width : 7vw;
+    border: none;
+    margin-left: 5vw;
+    border-radius: 10px;
+    color:black;
+    outline : none
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #f1f1f1;
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #888;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555;
+  }

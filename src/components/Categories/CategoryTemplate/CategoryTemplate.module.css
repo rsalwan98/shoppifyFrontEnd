@@ -1,0 +1,24 @@
+.CategoryTemplate{
+    margin-top: 1vh;
+    height : 45vh;
+    width: 18vw;
+    background-color: lightblue;
+    float: left;
+    margin-left: 4vw;
+    border-radius: 10px;
+    box-shadow : 2px 2px #1261A0;
+    margin-bottom: 8vh;
+}
+
+.myImage{
+    padding-top: 3vh;
+    height : 32vh;
+    width: 15vw;
+    margin: 0 auto;
+    margin-left: 1.5vw;
+}
+
+.myText{
+    color: black;
+    text-align: center;
+}

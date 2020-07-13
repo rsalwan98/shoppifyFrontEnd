@@ -1,0 +1,9 @@
+.DashboardFooter{
+    background-color: #202020;
+    text-align: center;
+    min-height: 7vh;
+    width : 100%;
+    margin-top: 15vh;
+    position: fixed;
+    bottom:0;
+}   

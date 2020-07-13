@@ -1,0 +1,21 @@
+.ToolbarItems{
+    float: right;
+    margin-right: 30px;
+    height: 100%;
+}
+
+.ToolbarItems a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.ToolbarItems a:hover ,
+.ToolbarItems a:active,
+.ToolbarItems a.active{
+    color: black;
+    background-color: #A9A9A9;
+}

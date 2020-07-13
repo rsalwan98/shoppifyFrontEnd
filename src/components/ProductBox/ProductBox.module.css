@@ -1,0 +1,8 @@
+.ProductBox{
+    margin : 0 auto;
+    background-color: #1261A0;
+    margin-top: 3vh;
+    width : 70vw;
+    min-height : 40vh;
+    padding-bottom: 25vh;
+}

@@ -1,0 +1,18 @@
+.NavItems{
+    border: none;
+    background-color: lightblue;
+    color: black;
+    font-weight: 100;
+    font-size: 2vh;
+    outline: none;
+    margin-right: 1vw;
+    border-radius: 3px;
+    height: 4vh;
+    width: 7vw;
+}
+
+.Selected {
+    background-color: #42C5F5;
+    color: white;
+    border-bottom: 2px solid #4290F5;
+}
